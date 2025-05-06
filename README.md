@@ -24,5 +24,3 @@ This is a simple product catalog web application that displays a grid of product
 - Ensure you have a web browser installed (e.g., Chrome, Firefox).
 - Open the index.html file in your browser to view the application.
 - Alternatively, use a local development server (e.g., Live Server in VS Code) for a better experience.
-
-No additional dependencies or installations are required, as the application uses vanilla JavaScript and external image URLs.
